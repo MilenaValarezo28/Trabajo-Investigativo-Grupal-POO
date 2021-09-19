@@ -1,0 +1,5 @@
+1|Sistemas
+2|Contabilidad
+3|Nomina
+4|Financiero
+5|Contable
